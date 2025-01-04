@@ -81,5 +81,8 @@ This program simulates memory allocation in C using `malloc` for allocating and 
 # Memory Leak Detection 🔍
 The program performs a check for any memory leaks upon exiting. If there are memory blocks that haven't been freed, they will be reported.
 
+# License 📜
+This project is licensed under the MIT License. For more details, check the LICENSE file.
+
 # Contributions 🤝
 Feel free to fork this repository and submit pull requests for improvements, bug fixes, or new features. For reporting issues or asking questions, open an issue on GitHub.
