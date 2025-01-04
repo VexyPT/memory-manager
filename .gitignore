@@ -1,0 +1,28 @@
+# Ignore compiled binary
+memory_manager
+
+# Ignore object files
+*.o
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+
+# Ignore debug files
+*.dSYM
+
+# Ignore IDE and editor configuration files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*~
+
+# Ignore CMake build directories
+cmake-build-debug/
+cmake-build-release/
