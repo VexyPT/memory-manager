@@ -23,7 +23,7 @@ To compile the project, open your terminal and run the following commands:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yvexypt/memory-manager.git
+   git clone https://github.com/VexyPTt/memory-manager
    cd memory-manager
    ```
 2. Compile the code:
@@ -82,7 +82,7 @@ This program simulates memory allocation in C using `malloc` for allocating and 
 The program performs a check for any memory leaks upon exiting. If there are memory blocks that haven't been freed, they will be reported.
 
 # License 📜
-This project is licensed under the MIT License. For more details, check the LICENSE file.
+This project is licensed under the MIT License. For more details, check the [LICENSE](https://github.com/VexyPT/memory-manager/blob/main/LICENSE) file.
 
 # Contributions 🤝
 Feel free to fork this repository and submit pull requests for improvements, bug fixes, or new features. For reporting issues or asking questions, open an issue on GitHub.
