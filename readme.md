@@ -23,7 +23,7 @@ To compile the project, open your terminal and run the following commands:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/VexyPTt/memory-manager
+   git clone https://github.com/VexyPT/memory-manager.git
    cd memory-manager
    ```
 2. Compile the code:
